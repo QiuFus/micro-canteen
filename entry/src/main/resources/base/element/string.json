@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "微食堂"
+    },
+    {
+      "name": "permission_reason_internet",
+      "value": "需要联网与AI机器人聊天"
+    },
+    {
+      "name": "read_image_reason",
+      "value": "需要访问相册上传头像"
+    }
+  ]
+}

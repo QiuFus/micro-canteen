@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/Index",
+    "LoginBranch/Page",
+    "pages/main",
+    "LoginBranch/signUp"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "routerMap": [
+    {
+      "name": "userMessage",
+      "pageSourceFile": "src/main/ets/ChatBranch/userMessage.ets",
+      "buildFunction": "UserMessageBuilder",
+      "data": {
+        "description": "聊天详情"
+      }
+    },
+    {
+      "name": "search",
+      "pageSourceFile": "src/main/ets/MainBranch/search.ets",
+      "buildFunction": "MySearchBuilder",
+      "data": {
+        "description": "搜索页"
+      }
+    },
+    {
+      "name": "SearchDetail",
+      "pageSourceFile": "src/main/ets/MainBranch/searchDetail.ets",
+      "buildFunction": "SearchDetailBuilder",
+      "data": {
+        "description": "搜索详情页"
+      }
+    },
+    {
+      "name": "gotoDetailPage",
+      "pageSourceFile": "src/main/ets/MainBranch/gotoDetailPage.ets",
+      "buildFunction": "gotoDetailPageBuilder"
+    },
+    {
+      "name": "notificationPage",
+      "pageSourceFile": "src/main/ets/MyPageBranch/notificationPage.ets",
+      "buildFunction": "notificationPageBuilder"
+    },
+    {
+      "name": "MyLikes",
+      "pageSourceFile": "src/main/ets/MyPageBranch/MyLikes.ets",
+      "buildFunction": "MyLikesBuilder"
+    },
+    {
+      "name": "setFoods",
+      "pageSourceFile": "src/main/ets/MyPageBranch/setFoods.ets",
+      "buildFunction": "setFoodsBuilder"
+    },
+    {
+      "name": "setFoodDetail",
+      "pageSourceFile": "src/main/ets/MyPageBranch/setFoodsDetail.ets",
+      "buildFunction": "setFoodDetailBuilder"
+    },
+    {
+      "name": "singUpWorkshop",
+      "pageSourceFile": "src/main/ets/MyPageBranch/signUpWorkshop.ets",
+      "buildFunction": "singUpWorkshopBuilder"
+    }
+  ]
+}
